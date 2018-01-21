@@ -2,7 +2,7 @@
 
 import request from 'request-promise'
 
-const computerVisionApiUrl = 'https://westcentralus.api.cognitive.microsoft.com/vision/v1.0/ocr'
+const computerVisionApiUrl = 'https://westus.api.cognitive.microsoft.com/vision/v1.0/ocr'
 const defaultParams = {
   'language': 'unk',
   'detectOrientation': true
