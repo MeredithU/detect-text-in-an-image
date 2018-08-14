@@ -1,0 +1,23 @@
+{
+  "name": "image-text-recognition",
+  "version": "1.0.0",
+  "description": "Used the Optical Character Recognition method in Microsoft Azure's Computer Vision API to detect text in an image.",
+  "main": "image-text-recognition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeredithU/detect-text-in-an-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeredithU/detect-text-in-an-image/issues"
+  },
+  "homepage": "https://github.com/MeredithU/detect-text-in-an-image#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
